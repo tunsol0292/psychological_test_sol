@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/-psychological_test_sol/temp/static/css/main.ebfdfa98.css",
+    "main.js": "/-psychological_test_sol/temp/static/js/main.3c16e87f.js",
+    "static/js/453.71a659c8.chunk.js": "/-psychological_test_sol/temp/static/js/453.71a659c8.chunk.js",
+    "index.html": "/-psychological_test_sol/temp/index.html",
+    "main.ebfdfa98.css.map": "/-psychological_test_sol/temp/static/css/main.ebfdfa98.css.map",
+    "main.3c16e87f.js.map": "/-psychological_test_sol/temp/static/js/main.3c16e87f.js.map",
+    "453.71a659c8.chunk.js.map": "/-psychological_test_sol/temp/static/js/453.71a659c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebfdfa98.css",
+    "static/js/main.3c16e87f.js"
+  ]
+}
